@@ -1,6 +1,6 @@
 {
-  "name": "Comparateur d'offres d'emploi",
-  "short_name": "Mes Offres",
+  "name": "Choose Your Future",
+  "short_name": "Choose",
   "description": "Compare deux offres d'emploi en 4 étapes",
   "start_url": "./index.html",
   "display": "standalone",
